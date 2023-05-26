@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_icon"
+        android:icon="@drawable/ic_chat"
+        android:iconTint="@color/white"
+        android:title="Home 2"
+        android:tint="@color/white"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_icon_logout"
+        android:icon="@drawable/ic_logout"
+        android:iconTint="@color/white"
+        android:title="Home 2"
+        android:tint="@color/white"
+        app:showAsAction="always" />
+</menu>
